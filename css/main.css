@@ -43,6 +43,13 @@ body {
   background: #999;
 }
 
+footer a {
+ width: 30px;
+ height: 30px;
+ margin: 0 5px;
+ border-radius: 20%;
+}
+
 footer {
  font-size: 0.75em;
  text-align: center;
@@ -51,10 +58,5 @@ footer {
  color: #ccc;
 }
 
-footer a {
- width: 30px;
- height: 30px;
- margin: 0 5px;
- border-radius: 20%;
-}
+
 
